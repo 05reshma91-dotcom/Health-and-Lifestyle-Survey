@@ -4,10 +4,10 @@ Mini Project : Health and Lifestyle Survey Data
 The dataset includes the following key categories of information: 
 
 
-	Demographics: Name, Gender, Age Group, Profession, and Region/Locality. 
+*	Demographics: Name, Gender, Age Group, Profession, and Region/Locality. 
 
-	Lifestyle and Habits: Smoking Habits, Alcohol Consumption, Physical Activity Level, Fast Food Consumption Frequency, Sleep Duration, Sleep Issues, Diet Type, and Water Intake per Day. 
+*	Lifestyle and Habits: Smoking Habits, Alcohol Consumption, Physical Activity Level, Fast Food Consumption Frequency, Sleep Duration, Sleep Issues, Diet Type, and Water Intake per Day. 
 
-	Health and Wellness: Details Current Health Conditions, Common Regional Health Concerns (s – Seasonal), Access to Clean Water & Sanitation, Pollution Exposure Area, Mental Health Frequency, Healthcare Access Method, Symptoms, and the Blood group and Particular disease fields provide specific medical information. 
+*	Health and Wellness: Details Current Health Conditions, Common Regional Health Concerns (s – Seasonal), Access to Clean Water & Sanitation, Pollution Exposure Area, Mental Health Frequency, Healthcare Access Method, Symptoms, and the Blood group and Particular disease fields provide specific medical information. 
 
-	Other Information: Includes Preferred Language for Chatbot and Preferred Platform, which can be used to understand communication preferences. 
+*	Other Information: Includes Preferred Language for Chatbot and Preferred Platform, which can be used to understand communication preferences. 
