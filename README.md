@@ -13,6 +13,7 @@ The dataset includes the following key categories of information:
 *	Other Information: Includes Preferred Language for Chatbot and Preferred Platform, which can be used to understand communication preferences. 
 
 Topic : Health and Lifestyle Survey Data
+
 URL : https://data.mendeley.com/datasets/6622pm2t95/1
+
 Num of Rows & Columns : 572 &  24
-Dataset: https://drive.google.com/drive/folders/1ny1w8Hlg1HIQXBgwbEqw8FbwL6pZvDac
